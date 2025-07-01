@@ -3,32 +3,32 @@ const SocialProof = () => {
   const results = [
     {
       metric: "312%",
-      description: "Average increase in qualified leads",
-      timeframe: "First 90 days"
+      description: "Aumento médio em leads qualificados",
+      timeframe: "Primeiros 90 dias"
     },
     {
-      metric: "$2.8M",
-      description: "Additional revenue generated",
-      timeframe: "Last 12 months"
+      metric: "R$ 2,8M",
+      description: "Receita adicional gerada",
+      timeframe: "Últimos 12 meses"
     },
     {
       metric: "47%",
-      description: "Reduction in cost per lead",
-      timeframe: "Ongoing optimization"
+      description: "Redução no custo por lead",
+      timeframe: "Otimização contínua"
     }
   ];
 
   const testimonials = [
     {
-      quote: "Our lead generation increased by 280% in just two months. The quality of leads has never been better.",
+      quote: "Nossa geração de leads aumentou 280% em apenas dois meses. A qualidade dos leads nunca foi tão boa.",
       author: "Sarah Mitchell",
-      title: "Broker/Owner",
-      company: "Mitchell Real Estate Group"
+      title: "Corretora/Proprietária",
+      company: "Mitchell Grupo Imobiliário"
     },
     {
-      quote: "Finally, a marketing partner that understands real estate. Our ROI has doubled since working with them.",
+      quote: "Finalmente, um parceiro de marketing que entende o mercado imobiliário. Nosso ROI dobrou desde que começamos a trabalhar com eles.",
       author: "Michael Chen",
-      title: "Managing Director",
+      title: "Diretor Geral",
       company: "Premier Properties"
     }
   ];
@@ -39,10 +39,10 @@ const SocialProof = () => {
         {/* Results Section */}
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-black mb-4">
-            Real Results for Real Estate Professionals
+            Resultados Reais para Profissionais Imobiliários
           </h2>
           <p className="text-xl text-stone-600 mb-12">
-            Don't take our word for it. Here's what our real estate clients are achieving.
+            Não acredite apenas na nossa palavra. Veja o que nossos clientes imobiliários estão alcançando.
           </p>
         </div>
 

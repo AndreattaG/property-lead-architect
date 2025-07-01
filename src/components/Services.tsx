@@ -2,19 +2,19 @@
 const Services = () => {
   const services = [
     {
-      title: "Google Ads Management",
-      description: "Target high-intent buyers and sellers with precision-crafted search campaigns that deliver qualified leads at scale.",
-      features: ["Keyword Research", "Ad Copy Optimization", "Landing Page Testing", "Conversion Tracking"]
+      title: "Gestão de Google Ads",
+      description: "Alcance compradores e vendedores com alta intenção de compra através de campanhas de busca elaboradas com precisão para gerar leads qualificados em escala.",
+      features: ["Pesquisa de Palavras-chave", "Otimização de Anúncios", "Testes de Landing Pages", "Rastreamento de Conversões"]
     },
     {
-      title: "Meta Ads Strategy",
-      description: "Leverage Facebook and Instagram's powerful targeting to reach potential clients where they spend their time.",
-      features: ["Audience Research", "Creative Development", "Retargeting Campaigns", "Lead Generation"]
+      title: "Estratégia em Meta Ads",
+      description: "Aproveite o poderoso direcionamento do Facebook e Instagram para alcançar clientes em potencial onde eles passam seu tempo.",
+      features: ["Pesquisa de Audiência", "Criação de Criativos", "Campanhas de Remarketing", "Geração de Leads"]
     },
     {
-      title: "Marketing Technology",
-      description: "Implement cutting-edge tools and automation to streamline your lead nurturing and client acquisition process.",
-      features: ["CRM Integration", "Lead Scoring", "Email Automation", "Analytics Dashboard"]
+      title: "Tecnologia de Marketing",
+      description: "Implemente ferramentas de ponta e automação para otimizar seu processo de nutrição de leads e aquisição de clientes.",
+      features: ["Integração com CRM", "Pontuação de Leads", "Automação de E-mail", "Dashboard de Analytics"]
     }
   ];
 
@@ -23,11 +23,11 @@ const Services = () => {
       <div className="max-w-6xl mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-black mb-4">
-            Specialized Solutions for Real Estate Growth
+            Soluções Especializadas para Crescimento Imobiliário
           </h2>
           <p className="text-xl text-stone-600 max-w-3xl mx-auto">
-            We don't do generic marketing. Every strategy is tailored specifically for the real estate industry, 
-            with deep understanding of your unique challenges and opportunities.
+            Não fazemos marketing genérico. Cada estratégia é personalizada especificamente para o setor imobiliário, 
+            com profundo entendimento dos seus desafios e oportunidades únicos.
           </p>
         </div>
 

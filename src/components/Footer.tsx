@@ -7,33 +7,33 @@ const Footer = () => {
           <div>
             <h3 className="text-2xl font-bold mb-4">RealtyGrow Marketing</h3>
             <p className="text-stone-300 leading-relaxed">
-              Specialized digital marketing agency dedicated to scaling real estate businesses 
-              through data-driven paid advertising and marketing technology.
+              Agência de marketing digital especializada em escalar negócios imobiliários 
+              através de tráfego pago orientado por dados e tecnologia de marketing.
             </p>
           </div>
           
           <div>
-            <h4 className="text-lg font-semibold mb-4">Services</h4>
+            <h4 className="text-lg font-semibold mb-4">Serviços</h4>
             <ul className="space-y-2 text-stone-300">
-              <li>Google Ads Management</li>
-              <li>Meta Ads Strategy</li>
-              <li>Marketing Technology</li>
-              <li>Lead Generation</li>
+              <li>Gestão de Google Ads</li>
+              <li>Estratégia em Meta Ads</li>
+              <li>Tecnologia de Marketing</li>
+              <li>Geração de Leads</li>
             </ul>
           </div>
           
           <div>
-            <h4 className="text-lg font-semibold mb-4">Contact</h4>
+            <h4 className="text-lg font-semibold mb-4">Contato</h4>
             <div className="space-y-2 text-stone-300">
-              <p>hello@realtygrow.com</p>
-              <p>(555) 123-4567</p>
-              <p>Schedule a free consultation today</p>
+              <p>contato@realtygrow.com.br</p>
+              <p>(11) 9 9999-9999</p>
+              <p>Agende uma consultoria gratuita hoje</p>
             </div>
           </div>
         </div>
         
         <div className="border-t border-stone-800 mt-12 pt-8 text-center text-stone-400">
-          <p>&copy; 2024 RealtyGrow Marketing. All rights reserved. Built for real estate professionals who demand results.</p>
+          <p>&copy; 2024 RealtyGrow Marketing. Todos os direitos reservados. Feito para profissionais imobiliários que exigem resultados.</p>
         </div>
       </div>
     </footer>
